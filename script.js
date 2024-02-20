@@ -9,7 +9,7 @@ function nightTime() {
     button.innerHTML = "Clique aqui para mudar para dia";
     button.setAttribute("onclick", "dayTime()")
     const icon = document.querySelector("#favicon");
-    icon.setAttribute("href", "src/lua.svg");
+    icon.setAttribute("href", "src/a6e0dbc9-9ead-4081-b52c-d24eb5f75c0a.svg");
     const title = document.querySelector("title");
     title.innerHTML = "Noite Estrelada";
 }
